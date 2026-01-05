@@ -13,9 +13,16 @@ The QML Minecraft Launcher will act as a testing "basic" application that functi
 
 ## The launcher will consist of many functions:
 ###1. Integration with SpecEngine (And the Butterium modpack)
+
 ###2. Instanced Minecraft Launching
-###3. GitHub integration enabling easy access to push and pull commits from developers' forks of the main modpack
+ - The user can install & modify multiple instances of Minecraft at once
+###3. GitHub Integration
+ - Enabling easy access to push and pull commits from developers' forks of the main modpack
 ###4. Skin Selector
+ - Yeah
 ###5. Mod installation & toggling from the launcher
+ - Using the modrinth api
 ###6. Discord Rich Presence
-###7. Modpack Backup System (To reverse changes from a maximum of three operations past)
+ - Showing the launcher in Discord
+###7. Modpack Backup System
+ - To reverse changes from a maximum of three operations past
