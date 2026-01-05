@@ -11,7 +11,7 @@ A QML-based Minecraft Launcher
 
 The QML Minecraft Launcher will act as a testing "basic" application that functions as an easy-to-use & modify Minecraft launcher.
 
-## Key Functions & Roadmap
+## Key Functions
 1. [ ] **Integration with SpecEngine (And the Butterium modpack)**
 
 2. [ ] **Instanced Minecraft Launching**
