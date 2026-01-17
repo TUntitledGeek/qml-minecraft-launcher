@@ -9,7 +9,7 @@ A QML/Python-based Minecraft Launcher
 
 ## What is the QML Minecraft Launcher?
 
-The QML Minecraft Launcher will act as a testing "basic" application that functions as an easy-to-use & modify Minecraft launcher for the Butterium Client.
+The QML Minecraft Launcher will act as a testing "basic" application that functions as an easy-to-use & modify Minecraft launcher for the **Butterium Client**.
 
 ## Roadmap
 
