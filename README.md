@@ -23,7 +23,7 @@ The QML Minecraft Launcher will act as a testing "basic" application that functi
 - [ ] **Implement Instances (Navigation-Wise)**
 - [ ] **Launch Button**
 - [ ] **Create Instances List Menu**
-- [ ] **Add Ability to Create & Delete Instances In-Client
+- [ ] **Add Ability to Create & Delete Instances In-Client**
 - [ ] **Give Instances the ability to be Pinned**
 - [ ] **Download Functionality (Modrinth API Integration)**
 
