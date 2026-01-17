@@ -40,5 +40,12 @@ The QML Minecraft Launcher will act as a testing "basic" application that functi
 | ![P3](https://img.shields.io/badge/P3-Low-green) | **Low** | Polish, extra features, and "nice to haves". |
 
 ## Key Features
-| Status | Priority | Feature | Description | | :---: | :--- | :--- | :--- | | ⬜ | ![P0](https://img.shields.io/badge/P0-Critical-red) | **Instanced Launching** | The user can install & modify multiple instances of Minecraft at once. | | ⬜ | ![P1](https://img.shields.io/badge/P1-High-orange) | **Mod Installation** | Installing & toggling mods using the Modrinth API. | | ⬜ | ![P2](https://img.shields.io/badge/P2-Medium-yellow) | **SpecEngine Integration** | Integration with SpecEngine and the Butterium modpack. | | ⬜ | ![P3](https://img.shields.io/badge/P3-Low-green) | **GitHub Integration** | Pull/push commits from developer forks of the main modpack. | | ⬜ | ![P3](https://img.shields.io/badge/P3-Low-green) | **Customization Page** | • Skin Selector<br>• Themes<br>• BUTR Profile | | ⬜ | ![P3](https://img.shields.io/badge/P3-Low-green) | **Discord RPC** | Showing the launcher status in Discord Rich Presence. | | ⬜ | ![P3](https://img.shields.io/badge/P3-Low-green) | **Backup System** | Ability to reverse changes from the last 3 operations. |
-
+| Status | Priority | Feature | Description |
+| :---: | :--- | :--- | :--- |
+| ⬜ | ![P0](https://img.shields.io/badge/P0-Critical-red) | **Instanced Launching** | The user can install & modify multiple instances of Minecraft at once. |
+| ⬜ | ![P1](https://img.shields.io/badge/P1-High-orange) | **Mod Installation** | Installing & toggling mods using the Modrinth API. |
+| ⬜ | ![P2](https://img.shields.io/badge/P2-Medium-yellow) | **SpecEngine Integration** | Integration with SpecEngine and the Butterium modpack. |
+| ⬜ | ![P3](https://img.shields.io/badge/P3-Low-green) | **GitHub Integration** | Pull/push commits from developer forks of the main modpack. |
+| ⬜ | ![P3](https://img.shields.io/badge/P3-Low-green) | **Customization Page** | • Skin Selector<br>• Themes<br>• BUTR Profile |
+| ⬜ | ![P3](https://img.shields.io/badge/P3-Low-green) | **Discord RPC** | Showing the launcher status in Discord Rich Presence. |
+| ⬜ | ![P3](https://img.shields.io/badge/P3-Low-green) | **Backup System** | Ability to reverse changes from the last 3 operations. |
