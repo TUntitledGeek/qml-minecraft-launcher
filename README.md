@@ -21,10 +21,10 @@ The QML Minecraft Launcher will act as a testing "basic" application that functi
 
 ## Key Functions
 
-1. [ ] ![P0](https://img.shields.io/badge/P0-Critical-red) **Integration with SpecEngine (And the Butterium modpack)**
+1. [ ] ![P2](https://img.shields.io/badge/P2-Medium-yellow) **Integration with SpecEngine (And the Butterium modpack)**
 2. [ ] ![P0](https://img.shields.io/badge/P0-Critical-red) **Instanced Minecraft Launching**
    - The user can install & modify multiple instances of Minecraft at once
-3. [ ] ![P2](https://img.shields.io/badge/P2-Medium-yellow) **GitHub Integration**
+3. [ ] ![P3](https://img.shields.io/badge/P3-Low-green) **GitHub Integration**
    - Enabling easy access to push and pull commits from developers' forks of the main modpack
 4. [ ] ![P3](https://img.shields.io/badge/P3-Low-green) **Skin Selector**
    - Yeah
@@ -32,5 +32,5 @@ The QML Minecraft Launcher will act as a testing "basic" application that functi
    - Using the Modrinth API
 6. [ ] ![P3](https://img.shields.io/badge/P3-Low-green) **Discord Rich Presence**
    - Showing the launcher in Discord
-7. [ ] ![P2](https://img.shields.io/badge/P2-Medium-yellow) **Modpack Backup System**
+7. [ ] ![P3](https://img.shields.io/badge/P3-Low-green) **Modpack Backup System**
    - To reverse changes from a maximum of three operations past
