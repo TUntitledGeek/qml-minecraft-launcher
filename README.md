@@ -11,6 +11,14 @@ A QML-based Minecraft Launcher
 
 The QML Minecraft Launcher will act as a testing "basic" application that functions as an easy-to-use & modify Minecraft launcher.
 
+## Development Priorities
+| Indicator | Level | Description |
+| :--- | :--- | :--- |
+| ![P0](https://img.shields.io/badge/P0-Critical-red) | **Critical** | Core functionality required for the alpha release. |
+| ![P1](https://img.shields.io/badge/P1-High-orange) | **High** | Important features to be added immediately after core stability. |
+| ![P2](https://img.shields.io/badge/P2-Medium-yellow) | **Medium** | Quality of life improvements and secondary tools. |
+| ![P3](https://img.shields.io/badge/P3-Low-green) | **Low** | Polish, extra features, and "nice to haves". |
+
 ## Key Functions
 1. [ ] **Integration with SpecEngine (And the Butterium modpack)**
 
