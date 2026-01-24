@@ -1,20 +1,19 @@
+<div align="center">
+
 # qml-minecraft-launcher
 A QML/Python-based Minecraft Launcher
 
-
-
 ![License](https://img.shields.io/badge/Copyright-All_Rights_Reserved-red) ![Target](https://img.shields.io/badge/Built_for-Butterium_Launcher-purple) ![Status](https://img.shields.io/badge/Status-Private_Beta-orange)
-
-
 
 ## What is the QML Minecraft Launcher?
 
 The QML Minecraft Launcher will act as a testing "basic" application that functions as an easy-to-use & modify Minecraft launcher for **BUTR Studios** modpacks/clients such as [**Butterium**](https://modrinth.com/modpack/butterium).
 
+</div>
+
 ## Roadmap
 
-### **The Skeleton** 
-- [ ] **Basic Window Setup**
+### **The Skeleton** - [ ] **Basic Window Setup**
 - [ ] **Implement Sidebar & Tab Switching**
 - [ ] **Basic Theming**
 
@@ -28,8 +27,10 @@ The QML Minecraft Launcher will act as a testing "basic" application that functi
 - [ ] **Download Functionality (Modrinth API Integration)**
 
 ### **Visual Cleanup**
-- [ ] **Homepage setup… (Automatic Grabbing of Icon & Artwork Card for Background)
+- [ ] **Homepage setup… (Automatic Grabbing of Icon & Artwork Card for Background)**
 - [ ] **Theme Customization Page**
+
+<div align="center">
 
 ## Development Priorities
 | Indicator | Level | Description |
@@ -49,3 +50,5 @@ The QML Minecraft Launcher will act as a testing "basic" application that functi
 | ⬜ | ![P3](https://img.shields.io/badge/P3-Low-green) | **Customization Page** | • Skin Selector<br>• Themes<br>• BUTR Profile |
 | ⬜ | ![P3](https://img.shields.io/badge/P3-Low-green) | **Discord RPC** | Showing the launcher status in Discord Rich Presence. |
 | ⬜ | ![P3](https://img.shields.io/badge/P3-Low-green) | **Backup System** | Ability to reverse changes from the last 3 operations. |
+
+</div>
