@@ -13,7 +13,8 @@ The QML Minecraft Launcher will act as a testing "basic" application that functi
 
 ## Roadmap
 
-### **The Skeleton** - [ ] **Basic Window Setup**
+### **The Skeleton**
+- [ ] **Basic Window Setup**
 - [ ] **Implement Sidebar & Tab Switching**
 - [ ] **Basic Theming**
 
