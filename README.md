@@ -36,20 +36,20 @@ The QML Minecraft Launcher will act as a testing "basic" application that functi
 ## Development Priorities
 | Indicator | Level | Description |
 | :--- | :--- | :--- |
-| ![P0](https://img.shields.io/badge/P0-Critical-red) | **Critical** | Core functionality required for the alpha release. |
-| ![P1](https://img.shields.io/badge/P1-High-orange) | **High** | Important features to be added immediately after core stability. |
-| ![P2](https://img.shields.io/badge/P2-Medium-yellow) | **Medium** | Quality of life improvements, UI design and secondary tools. |
-| ![P3](https://img.shields.io/badge/P3-Low-green) | **Low** | Polish, extra features, and "nice to haves". |
+| ![P0](https://img.shields.io/badge/P0-Critical-red?style=flat-square) | **Critical** | Core functionality required for the alpha release. |
+| ![P1](https://img.shields.io/badge/P1-High-orange?style=flat-square) | **High** | Important features to be added immediately after core stability. |
+| ![P2](https://img.shields.io/badge/P2-Medium-yellow?style=flat-square) | **Medium** | Quality of life improvements, UI design and secondary tools. |
+| ![P3](https://img.shields.io/badge/P3-Low-green?style=flat-square) | **Low** | Polish, extra features, and "nice to haves". |
 
 ## Key Features
 | Status | Priority | Feature | Description |
 | :---: | :--- | :--- | :--- |
-| ⬜ | ![P0](https://img.shields.io/badge/P0-Critical-red) | **Instanced Launching** | The user can install & modify multiple instances of Minecraft at once. |
-| ⬜ | ![P1](https://img.shields.io/badge/P1-High-orange) | **Mod Installation** | Installing & toggling mods using the Modrinth API. |
-| ⬜ | ![P2](https://img.shields.io/badge/P2-Medium-yellow) | **SpecEngine Integration** | Integration with SpecEngine and the Butterium modpack. |
-| ⬜ | ![P3](https://img.shields.io/badge/P3-Low-green) | **GitHub Integration** | Pull/push commits from developer forks of the main modpack. |
-| ⬜ | ![P3](https://img.shields.io/badge/P3-Low-green) | **Customization Page** | • Skin Selector<br>• Themes<br>• BUTR Profile |
-| ⬜ | ![P3](https://img.shields.io/badge/P3-Low-green) | **Discord RPC** | Showing the launcher status in Discord Rich Presence. |
-| ⬜ | ![P3](https://img.shields.io/badge/P3-Low-green) | **Backup System** | Ability to reverse changes from the last 3 operations. |
+| ⬜ | ![P0](https://img.shields.io/badge/P0-Critical-red?style=flat-square) | **Instanced Launching** | The user can install & modify multiple instances of Minecraft at once. |
+| ⬜ | ![P1](https://img.shields.io/badge/P1-High-orange?style=flat-square) | **Mod Installation** | Installing & toggling mods using the Modrinth API. |
+| ⬜ | ![P2](https://img.shields.io/badge/P2-Medium-yellow?style=flat-square) | **SpecEngine Integration** | Integration with SpecEngine and the Butterium modpack. |
+| ⬜ | ![P3](https://img.shields.io/badge/P3-Low-green?style=flat-square) | **GitHub Integration** | Pull/push commits from developer forks of the main modpack. |
+| ⬜ | ![P3](https://img.shields.io/badge/P3-Low-green?style=flat-square) | **Customization Page** | • Skin Selector<br>• Themes<br>• BUTR Profile |
+| ⬜ | ![P3](https://img.shields.io/badge/P3-Low-green?style=flat-square) | **Discord RPC** | Showing the launcher status in Discord Rich Presence. |
+| ⬜ | ![P3](https://img.shields.io/badge/P3-Low-green?style=flat-square) | **Backup System** | Ability to reverse changes from the last 3 operations. |
 
 </div>
