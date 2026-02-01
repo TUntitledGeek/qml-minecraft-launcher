@@ -7,7 +7,7 @@ A QML/Python-based Minecraft Launcher
 
 ## What is the QML Minecraft Launcher?
 
-The QML Minecraft Launcher will act as a testing "basic" application that functions as an easy-to-use & modify Minecraft launcher for modpacks/clients such as [**Butterium**](https://modrinth.com/modpack/butterium).
+The QML Minecraft Launcher will act as a testing "basic" application that functions as an easy-to-use & modify Minecraft launcher for modpacks or clients.
 
 </div>
 
@@ -63,7 +63,6 @@ The QML Minecraft Launcher will act as a testing "basic" application that functi
 This project is **Source-Available**. This means that while the code is publicly viewable for transparency and educational purposes, it is **not** open source. 
 
 ### Usage & Restrictions
-* Permission is granted to the **Butterium Launcher** project to use, modify, and distribute this software.
 * You may not resell, re-license, or decouple this code for use in independent projects without written consent.
 
 ### Contributions (CLA)
