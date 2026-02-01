@@ -1,13 +1,13 @@
 <div align="center">
 
-# qml-minecraft-launcher
+# Mosaic Launcher
 A QML/Python-based Minecraft Launcher
 
 ![License](https://img.shields.io/badge/License-Source--Available-red?style=for-the-badge) ![Target](https://img.shields.io/badge/Built_for-The_Community-purple?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-Private_Beta-orange?style=for-the-badge)
 
-## What is the QML Minecraft Launcher?
+## What is the Mosaic Launcher?
 
-The QML Minecraft Launcher will act as a testing "basic" application that functions as an easy-to-use & modify Minecraft launcher for modpacks or clients.
+The Mosaic Launcher will act as a testing "basic" application that functions as an easy-to-use & modify Minecraft launcher for modpacks or clients.
 
 </div>
 
