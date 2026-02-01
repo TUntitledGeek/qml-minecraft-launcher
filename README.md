@@ -3,7 +3,7 @@
 # qml-minecraft-launcher
 A QML/Python-based Minecraft Launcher
 
-![License](https://img.shields.io/badge/Copyright-All_Rights_Reserved-red?style=for-the-badge) ![Target](https://img.shields.io/badge/Built_for-The Community-purple?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-Private_Beta-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/Copyright-All_Rights_Reserved-red?style=for-the-badge) ![Target](https://img.shields.io/badge/Built_for-The_Community-purple?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-Private_Beta-orange?style=for-the-badge)
 
 ## What is the QML Minecraft Launcher?
 
