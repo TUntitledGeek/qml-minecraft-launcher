@@ -3,7 +3,7 @@
 # qml-minecraft-launcher
 A QML/Python-based Minecraft Launcher
 
-![License](https://img.shields.io/badge/Copyright-All_Rights_Reserved-red?style=for-the-badge) ![Target](https://img.shields.io/badge/Built_for-The_Community-purple?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-Private_Beta-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Source--Available-red?style=for-the-badge) ![Target](https://img.shields.io/badge/Built_for-The_Community-purple?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-Private_Beta-orange?style=for-the-badge)
 
 ## What is the QML Minecraft Launcher?
 
@@ -53,3 +53,21 @@ The QML Minecraft Launcher will act as a testing "basic" application that functi
 | ⬜ | ![P3](https://img.shields.io/badge/P3-Low-green?style=flat-square) | **Backup System** | Ability to reverse changes from the last 3 operations. |
 
 </div>
+
+---
+
+## ⚖️ License & Contributions
+
+**Copyright (c) 2026 TUntitledGeek. ALL RIGHTS RESERVED.**
+
+This project is **Source-Available**. This means that while the code is publicly viewable for transparency and educational purposes, it is **not** open source. 
+
+### Usage & Restrictions
+* Permission is granted to the **Butterium Launcher** project to use, modify, and distribute this software.
+* You may not resell, re-license, or decouple this code for use in independent projects without written consent.
+
+### Contributions (CLA)
+By forking this repository or submitting a Pull Request, you agree to grant the Author (TUntitledGeek) a perpetual, royalty-free, and irrevocable license to use and merge your contributions into the main project. Full licensing details can be found in the [LICENSE](./LICENSE) file.
+
+---
+*Disclaimer: Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.*
