@@ -2,7 +2,7 @@
 
 Copyright (c) 2026 TUntitledGeek. ALL RIGHTS RESERVED.
 
-1. OWNERSHIP & SCOPE
+1. OWNERSHIP
 The source code, design, and architecture of this software ("qml-minecraft-launcher") are the sole intellectual property of TUntitledGeek (the "Author"). This is a source-available project; it is not "Open Source" under the OSI definition.
 
 2. LICENSE GRANT
@@ -18,7 +18,7 @@ The Licensee and public users may not:
 By submitting a Pull Request, forking this repository and making changes, or otherwise contributing code to this project, you hereby grant the Author a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable license to use, modify, and incorporate your contributions into the main project and any future versions thereof.
 
 5. NO WARRANTY & LIMITATION OF LIABILITY
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 6. NON-AFFILIATION
 This project is not affiliated with, endorsed by, or associated with Mojang AB, Microsoft, or Modrinth. "Minecraft" is a trademark of Mojang Synergies AB.
