@@ -1,16 +1,24 @@
-Copyright (c) 2026 TUntitledGeek
+# SOURCE-AVAILABLE LICENSE (NON-OPEN SOURCE)
 
-ALL RIGHTS RESERVED
+Copyright (c) 2026 TUntitledGeek. ALL RIGHTS RESERVED.
 
-1. OWNERSHIP
-The source code, design, and architecture of this software ("qml-minecraft-launcher") 
-are the sole intellectual property of TUntitledGeek (the "Author").
+1. OWNERSHIP & SCOPE
+The source code, design, and architecture of this software ("qml-minecraft-launcher") are the sole intellectual property of TUntitledGeek (the "Author"). This is a source-available project; it is not "Open Source" under the OSI definition.
 
 2. LICENSE GRANT
-Permission is hereby granted to the Butterium Launcher project (the "Licensee") 
-to use, modify, and distribute this software as an alternative to the existing Butterium Launcher.
+Permission is hereby granted to the Butterium Launcher project (the "Licensee") to use, modify, and distribute this software as an alternative to the existing Butterium Launcher. Public users are granted the right to view, download, and fork this code for personal study or contribution purposes only.
 
 3. RESTRICTIONS
-The Licensee may not extract, decouple, resell, or re-license this 
-source code for use in projects other than the Butterium Launcher 
-without prior written consent from the Author.
+The Licensee and public users may not:
+* Extract, decouple, or re-license this source code for use in projects other than the Butterium Launcher.
+* Resell or redistribute this software as a standalone commercial product.
+* Use this code to create a competing Minecraft launcher without prior written consent from the Author.
+
+4. CONTRIBUTOR LICENSE AGREEMENT (CLA)
+By submitting a Pull Request, forking this repository and making changes, or otherwise contributing code to this project, you hereby grant the Author a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable license to use, modify, and incorporate your contributions into the main project and any future versions thereof.
+
+5. NO WARRANTY & LIMITATION OF LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. NON-AFFILIATION
+This project is not affiliated with, endorsed by, or associated with Mojang AB, Microsoft, or Modrinth. "Minecraft" is a trademark of Mojang Synergies AB.
